@@ -9,3 +9,16 @@ College of Intelligent Science and Technology-Teacher Query System
 - 修改教師資料
 - 查詢教師資料
 
+## How to use
+- 前置步驟<br>
+下載 Miscrosoft SQL Server<br>
+下載 SSMS<br>
+下載 jdk-8u131-windows-x64.exe<br>
+下載 java-ide ex: <a href="https://www.eclipse.org/downloads/">eclipse</a> (本專案使用 neon3 版本)<br>
+下載 apache (本專案使用 8.5.14) 檔案位於列表中<br><br>
+- 配置 apache jdk 於 eclipse
+- eclipse 創建一個 dynamic web project
+- 將 demo2 解壓縮匯入專案
+- 在mssql中新建一個資料庫，創建檔案位於列表中
+- 在 mssql管理程式 中開啟 port 1443 , 並將服務重新啟動
+- 完成
