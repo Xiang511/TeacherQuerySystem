@@ -20,6 +20,6 @@ College of Intelligent Science and Technology-Teacher Query System
 - 配置 apache jdk 於 eclipse
 - eclipse 創建一個 dynamic web project
 - 將 demo2 解壓縮匯入專案
-- 在mssql中新建一個資料庫，創建檔案位於列表中
+- 在mssql中新建一個資料庫，創建檔案位於列表中 (亦可使用掛載資料庫方式)
 - 在 mssql管理程式 中開啟 port 1443 , 並將服務重新啟動
 - 完成
