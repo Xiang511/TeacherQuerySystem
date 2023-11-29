@@ -10,6 +10,7 @@ College of Intelligent Science and Technology-Teacher Query System
 - 查詢教師資料
 
 ## How to use
+>請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
 - 前置步驟<br>
 下載 Miscrosoft SQL Server<br>
 下載 SSMS<br>
