@@ -1,9 +1,10 @@
 ## TeacherQuerySystem
 
-College of Intelligent Science and Technology-Teacher Query System
-利用 Microsoft SQL Server, jsp , Bootstrap 實現一個教師資料查詢系統<br><br>
+College of Intelligent Science and Technology-Teacher Query System<br><br>
+利用 Microsoft SQL Server, jsp , Bootstrap <br><br>
+實現一個教師資料查詢系統<br><br>
 主要使用 ODBC 連線<br><br>
-
+______
 ## How to use
 >請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
 - 前置步驟<br>
