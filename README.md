@@ -1,7 +1,6 @@
 ## TeacherQuerySystem
 
 College of Intelligent Science and Technology-Teacher Query System
-
 利用 Microsoft SQL Server, jsp , Bootstrap 實現一個教師資料查詢系統<br><br>
 主要使用 ODBC 連線<br><br>
 
@@ -21,7 +20,7 @@ College of Intelligent Science and Technology-Teacher Query System
   - lib demo2\demo2\WebContent\WEB-INF\lib (直接複製檔案即可)<br>
   ![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/8f1ba456-4041-4893-b2a4-6b7cff53147d)
   - 詳情請見完整配置圖
-  - JavaResources<br>
+  - JavaResources demo2\demo2\build\classes<br>
   ![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/908086f6-d70b-4fec-bbb3-4d7eb619dc50)
   - 詳情請見完整配置圖
 - ## 完整配置圖
