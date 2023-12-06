@@ -3,7 +3,7 @@
 College of Intelligent Science and Technology-Teacher Query System<br><br>
 利用 Microsoft SQL Server, jsp , Bootstrap <br><br>
 實現一個教師資料查詢系統<br><br>
-主要使用 ODBC 連線<br><br>
+主要使用 ODBC 連線<br>
 ______
 ## How to use
 >請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
@@ -13,9 +13,8 @@ ______
 下載 jdk-8u131-windows-x64.exe<br>
 下載 java-ide ex: <a href="https://www.eclipse.org/downloads/">eclipse</a> (本專案使用 neon3 版本)<br>
 下載 apache (本專案使用 8.5.14) 檔案位於列表中<br><br>
-- eclipse 創建一個 dynamic web project
+- eclipse 創建一個 dynamic web project ，下圖名稱為test
 - 配置 apache jdk 於 eclipse
-- 創建新專案
 - 將 demo2\demo2\WebContent\資料庫期末\110-1_Orders 匯入專案(匯入110-1_Orders即可)
 - lib與JavaResources配置參照下圖
   - lib demo2\demo2\WebContent\WEB-INF\lib (直接複製檔案即可)<br>
@@ -38,11 +37,20 @@ ______
 - 完成
 
 
-## 無法連線問題
+> [!NOTE]
+> 無法連線問題
 
-Q:使用者無法登入
-![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/e9bfb730-c738-4b87-bf3a-546bc2319abe)
-A:可能未開啟sql驗證登入
+> Q:使用者無法登入
+> ![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/e9bfb730-c738-4b87-bf3a-546bc2319abe)
+> A:可能未開啟sql驗證登入
+
+> Q:路徑問題
+> ![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/e8766a15-80bb-4361-968c-5aabf79ef9af)
+> A:修改即可
+
+
+
+
 
 ...待補充
 
