@@ -4,9 +4,27 @@ College of Intelligent Science and Technology-Teacher Query System<br><br>
 利用 Microsoft SQL Server, jsp , Bootstrap <br><br>
 實現一個教師資料查詢系統<br><br>
 主要使用 ODBC 連線<br><br>
-![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/7027428d-cad6-4db9-af3f-912cc58a6cef)
+
+## Demo
+<a href="https://youtu.be/BjJkCcQfMJY">https://youtu.be/BjJkCcQfMJY</a></br></br>
+![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/0586b302-ddfd-4233-bfe8-ebc13e596704)
 
 
+目前功能包括:
+- ### 教師資料
+  - 新增<br>
+刪除<br>
+修改<br>
+查詢<br>
+- ### 專長
+  - 新增<br>
+刪除<br>
+修改<br>
+查詢<br>
+
+- ### 系級名稱
+  - 修改<br>
+查詢<br>
 ______
 ## How to use
 >請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
@@ -57,24 +75,4 @@ ______
 
 ...待補充
 
-
-## demo
-<a href="https://youtu.be/BjJkCcQfMJY">https://youtu.be/BjJkCcQfMJY</a></br></br>
-![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/3180b733-8efb-4359-b980-955503527e06)
-
-目前功能包括:
-- ### 教師資料
-  - 新增<br>
-刪除<br>
-修改<br>
-查詢<br>
-- ### 專長
-  - 新增<br>
-刪除<br>
-修改<br>
-查詢<br>
-
-- ### 系級名稱
-  - 修改<br>
-查詢<br>
 
