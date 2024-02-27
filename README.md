@@ -1,9 +1,9 @@
 # TeacherQuery System
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
-</br>
 
-利用 Microsoft SQL Server, Java Server Pages , Bootstrap5 實現一個教師資料查詢系統 <br>
+利用 Microsoft SQL Server, Java Server Pages , Bootstrap5 , Jquery 實現一個教師資料查詢系統 <br>
 主要使用 ODBC 連線<br>
 
 ## Demo
