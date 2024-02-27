@@ -1,31 +1,24 @@
-## TeacherQuerySystem
+# TeacherQuery System
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+</br>
 
-College of Intelligent Science and Technology-Teacher Query System<br><br>
-利用 Microsoft SQL Server, jsp , Bootstrap <br><br>
-實現一個教師資料查詢系統<br><br>
-主要使用 ODBC 連線<br><br>
+利用 Microsoft SQL Server, Java Server Pages , Bootstrap5 實現一個教師資料查詢系統 <br>
+主要使用 ODBC 連線<br>
 
 ## Demo
 <a href="https://youtu.be/BjJkCcQfMJY">https://youtu.be/BjJkCcQfMJY</a></br></br>
 ![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/0586b302-ddfd-4233-bfe8-ebc13e596704)
 
+## Features
 
-目前功能包括:
-- ### 教師資料
-  - 新增<br>
-刪除<br>
-修改<br>
-查詢<br>
-- ### 專長
-  - 新增<br>
-刪除<br>
-修改<br>
-查詢<br>
+- 教師資料
+   新增 刪除 修改 查詢
+- 專長資料
+  新增 刪除 修改 查詢
+- 系級名稱
+  修改 查詢
 
-- ### 系級名稱
-  - 修改<br>
-查詢<br>
-______
 ## How to use
 >請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
 - 前置步驟<br>
