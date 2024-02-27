@@ -1,15 +1,11 @@
 # TeacherQuery System
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
 
-利用 Microsoft SQL Server, Java Server Pages , Bootstrap5 , Jquery 實現一個教師資料查詢系統 <br>
+利用 Microsoft SQL Server, Java Server Pages , Bootstrap5 , Jquery ,apache-tomcat實現一個教師資料查詢系統 <br>
 主要使用 ODBC 連線<br>
-
-## Demo
-<a href="https://youtu.be/BjJkCcQfMJY">https://youtu.be/BjJkCcQfMJY</a></br></br>
-![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/0586b302-ddfd-4233-bfe8-ebc13e596704)
-
 ## Features
 
 - 教師資料
@@ -18,6 +14,10 @@
   新增 刪除 修改 查詢
 - 系級名稱
   修改 查詢
+  
+## Demo
+<a href="https://youtu.be/BjJkCcQfMJY">https://youtu.be/BjJkCcQfMJY</a></br></br>
+![image](https://github.com/Xiang511/TeacherQuerySystem/assets/120042360/0586b302-ddfd-4233-bfe8-ebc13e596704)
 
 ## How to use
 >請忽略 "網站" 資料夾內的檔案，請使用demo2壓縮檔
